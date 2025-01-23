@@ -1,1 +1,2 @@
 # C-Progrmas
+First sem 
